@@ -13,3 +13,4 @@
 @@||dbankcloud.cn^
 @@||dbankcloud.com^
 @@||hihonorcloud.com^
+@@||api.yktvb.com^
