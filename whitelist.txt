@@ -14,3 +14,4 @@
 @@||dbankcloud.com^
 @@||hihonorcloud.com^
 @@||api.yktvb.com^
+@@||appsflyersdk.com^
