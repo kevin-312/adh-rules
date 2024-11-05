@@ -4,3 +4,6 @@
 *.hasdjksndjk.com
 *.lienbagh.yangliq.com
 *.ffzy-video.com
+*.3d-platform-pro.obs.cn-south-1.myhuaweicloud.com
+*.soupian.icu
+*.iyueyuw.xyz
