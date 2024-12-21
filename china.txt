@@ -13,3 +13,5 @@ wuwuabc.life
 googletagmanager.com
 myhuaweicloud.com
 zuikw.com
+19891122.xyz
+*.19891122.xyz
