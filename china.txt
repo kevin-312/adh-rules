@@ -19,3 +19,5 @@ ptlgs.org
 ptl.gs
 *.ptlgs.org
 *.ptl.gs
+ptcafe.club
+*.ptcafe.club
