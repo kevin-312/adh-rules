@@ -17,3 +17,5 @@ zuikw.com
 *.19891122.xyz
 ptlgs.org
 ptl.gs
+*.ptlgs.org
+*.ptl.gs
