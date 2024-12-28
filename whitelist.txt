@@ -15,3 +15,6 @@
 @@||hihonorcloud.com^
 @@||api.yktvb.com^
 @@||appsflyersdk.com^
+@@||icc2022.com^
+@@||ptcafe.club^
+@@||ptlgs.org^
