@@ -21,3 +21,5 @@ ptl.gs
 *.ptl.gs
 ptcafe.club
 *.ptcafe.club
+icc2022.com
+*.icc2022.com
