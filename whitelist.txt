@@ -36,3 +36,4 @@
 @@||hc.tuya.com^  
 @@||*.hiotcdn.com^ 
 @@||updp.hishop.rom.miui.com^
+@@||terms-drcn.platform.dbankcloud.cn^
